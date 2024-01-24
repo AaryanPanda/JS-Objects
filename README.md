@@ -1,3 +1,3 @@
 # JS-Objects
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AaryanPanda/JS-Objects)
+Complete the challenges in script.js file using JS Objects knowledge.
